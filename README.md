@@ -34,4 +34,4 @@
 | Git/version control | Every project uses git commits + branching |
 | Documentation standards | Runbooks + README in every project |
 
-*Last updated: 24 May 2026 · [LinkedIn](www.linkedin.com/in/harsh-sharma-7bb1b5163) · [Email](harshbhardwaz355@gmail.com)
+*Last updated:[24 May 2026] · [LinkedIn](www.linkedin.com/in/harsh-sharma-7bb1b5163) · [Email](harshbhardwaz355@gmail.com)
